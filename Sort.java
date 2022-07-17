@@ -9,7 +9,7 @@ public class Sort {
         int n=sc.nextInt();                       // getting No Of elements In array From the user
         int[] arr= new int[n];
 
-        int t;                                  // Temprovary Variable
+        int t;
 
         for (int i = 0; i < n; i++) {
             arr[i]=sc.nextInt();                //Getting Input Elements From User
